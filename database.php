@@ -8,8 +8,8 @@ class database {
 	function __construct () {
 		
 		$this->file = simplexml_load_file("config.xml");
-		
-		$this->con = new mysqli("localhost", "root", "", "mysite");
+
+		$this->con = new mysqli();
 
 	}
 }
