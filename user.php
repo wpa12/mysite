@@ -2,7 +2,9 @@
 
 class user {
 
-	public static function addUser() {
-		
+	public function addUser($username, $password, $email) {
+		if(!$username || !$password || !$email){
+			echo "please fill out relevant fields";
+		}
 	}
 }
