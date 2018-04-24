@@ -8,9 +8,9 @@
 </head>
 <body>
 <div class="container">
-<div id="header">
-	<header>
-		<img href="" />
-		<h1>Wayne Anstey</h1>
-	</header>
-</div>
+	<div id="header">
+		<header>
+			<img href="" />
+			<h1>Wayne Anstey</h1>
+		</header>
+	</div>
