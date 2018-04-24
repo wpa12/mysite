@@ -1,3 +1,28 @@
 // SASS file that will contain styles for the site.
 
-$background: green;
+$banner-color: lightgreen;
+$nav-color: lightblue;
+
+header {
+
+}
+
+#nav {
+	margin:10px auto;
+}
+
+nav {
+	ul {
+
+		li {
+			list-style:none;
+			display:inline;
+		}
+	}
+}
+
+header:hover {
+	color: blue;
+	cursor:pointer;
+}
+

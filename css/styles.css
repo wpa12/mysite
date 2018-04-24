@@ -1,3 +1,12 @@
+#nav {
+  margin: 10px auto; }
 
+nav ul li {
+  list-style: none;
+  display: inline; }
+
+header:hover {
+  color: blue;
+  cursor: pointer; }
 
 /*# sourceMappingURL=styles.css.map */
